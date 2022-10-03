@@ -1,3 +1,5 @@
+<a class="medium-link" href="https://medium.com/@lukedev_/the-javascript-serivce-design-pattern-d819e1137bed">Read on medium</a>
+
 # The Javascript service design pattern
 
 <br />

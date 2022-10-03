@@ -273,3 +273,9 @@ blockquote {
   .hljs-meta {
     color: #75715e;
   }
+
+  /* custom CSS */
+  a.medium-link {
+    margin-bottom: -40px;
+    display: block;
+  }
